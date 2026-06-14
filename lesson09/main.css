@@ -40,10 +40,4 @@ body .container {
 
 .italics {
   font-style: italic;
-}
-
-@media screen and (max-width: 650px) {
-  body {
-    width: 100vw;
-  }
 }/*# sourceMappingURL=main.css.map */
